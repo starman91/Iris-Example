@@ -53,7 +53,7 @@ st.title("DuraMAT Streamlit Analysis App")
 
     #dmt_image=Image.open('C:/Users/rwhite/Pictures/Logos/logo-duramat-reversed-600.png')
     #st.image(dmt_image)
-    #st.subheader("Hello Researcher")
+st.subheader("Hello Researcher")
     
     #values = construct_sidebar()
     
