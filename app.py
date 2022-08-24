@@ -51,8 +51,8 @@ from PIL import Image
 #def main():
 st.title("DuraMAT Streamlit Analysis App")
 
-dmt_image=Image.open('https://raw.githubusercontent.com/starman91/Iris-Example/main/images/logo-duramat-reversed-600.png')
-st.image(dmt_image)
+#dmt_image=Image.open('https://raw.githubusercontent.com/starman91/Iris-Example/main/images/logo-duramat-reversed-600.png')
+st.image('https://raw.githubusercontent.com/starman91/Iris-Example/main/images/logo-duramat-reversed-600.png')
 st.subheader("Hello Researcher")
     
     #values = construct_sidebar()
