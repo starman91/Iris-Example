@@ -48,8 +48,8 @@ from PIL import Image
     #return values
     
 
-def main():
-    st.title("DuraMAT Streamlit Analysis App")
+#def main():
+st.title("DuraMAT Streamlit Analysis App")
 
     #dmt_image=Image.open('C:/Users/rwhite/Pictures/Logos/logo-duramat-reversed-600.png')
     #st.image(dmt_image)
@@ -104,5 +104,5 @@ def main():
     #st.plotly_chart(fig, use_container_width=True)    
     
       
-if __name__ == '__main__':
-    main()
+#if __name__ == '__main__':
+    #main()
